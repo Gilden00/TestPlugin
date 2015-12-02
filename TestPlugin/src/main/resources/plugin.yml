@@ -1,0 +1,9 @@
+name: <plugin_name>
+main: io.github.gilden00.<plugin_name>.<main_class>
+description: <Description>
+version: <Version>
+
+authors: [ Gilden00 ]
+depend: [  ]
+softdepend: [  ]
+website: http://gilden00.github.io/<plugin_name>
