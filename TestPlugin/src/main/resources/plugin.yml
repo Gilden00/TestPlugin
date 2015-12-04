@@ -13,4 +13,9 @@ commands:
       description: This is a demo command.
       usage: /basic
       permission: TestPlugin.basic
-      permission-message: You don't have TestPlugin.basic
+      permission-message: You don't have permission to use TestPlugin.basic
+   basic2:
+      description: This is a demo command that can only be issued by the player.
+      usage: /basic2
+      permission: TestPlugin.basic2
+      permission-message: You don't have permission to use TestPlugin.basic2
